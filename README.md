@@ -2,8 +2,6 @@
 
 🚀 A dynamic weather app built with Kotlin and Jetpack Compose, integrating real-time weather updates, API handling, and smooth animations for a modern UI experience.
 
-## 📹 Demo Video
-[Watch the demo](https://youtube.com/shorts/O9rHEk3YTeA?feature=share)
 
 ---
 
@@ -68,11 +66,6 @@
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
